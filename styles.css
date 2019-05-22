@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Baloo+Bhai&display=swap');
+
+body {
+  font-family: 'Baloo Bhai', cursive;
+  background: #3aafb9;
+}
+
+div {
+  text-align: center;
+}
+
+div h1 {
+  color: #093a3e;
+  font-size: 8rem;
+}
+
+div h2 {
+  color: #64e9ee;
+  font-size: 4rem;
+}
+
+div button {
+  background: #97c8eb;
+  border-color: #97c8eb;
+  border-radius: 10%;
+  width: 10vw;
+  height: 5vh;
+  font-family: 'Baloo Bhai', cursive;
+  font-size: 1rem;
+  color: #3aafb9;
+}
